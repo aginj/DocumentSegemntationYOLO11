@@ -24,15 +24,12 @@ yolo11-document-segmentation/
 ├── src/
 │   ├── train.py
 │   └── inference.py
-│
-├── weights/
-│   └── best.pt
-│
+││
 ├── dataset/
 │   ├── data.yaml
 │   └── README.md
 │
-├── examples/
+├── predict(examples)/
 │   ├── input_1.jpg
 │   └── output_1.jpg
 │
