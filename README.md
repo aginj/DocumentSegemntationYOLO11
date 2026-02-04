@@ -25,10 +25,6 @@ yolo11-document-segmentation/
 │   ├── train.py
 │   └── inference.py
 │
-├── notebooks/
-│   ├── train_document_segmentation.ipynb
-│   └── inference_document_segmentation.ipynb
-│
 ├── weights/
 │   └── best.pt
 │
@@ -45,6 +41,8 @@ yolo11-document-segmentation/
 │
 ├── requirements.txt
 └── README.md
+
+---
 
 ## ⚙️ Installation
 
